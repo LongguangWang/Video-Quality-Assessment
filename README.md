@@ -1,6 +1,6 @@
 # Video Quality Assessment
 
-## [[MOVIE]](http://live.ece.utexas.edu/research/Quality/movie.html)
+## [[MOVIE]](http://live.ece.utexas.edu/research/Quality/movie.html) (MOtion-based Video Integrity Evaluation)
 ```
 @Article{Seshadrinathan2010Motion,
   author    = {Kalpana Seshadrinathan and Alan C. Bovik},
@@ -14,6 +14,6 @@
 }
 ```
 
-## [[VQM-VFD]](https://github.com/NTIA/vqm)
+## [[VFD]](https://github.com/NTIA/vqm) (Variable Frame Delays)
 
-## [[VMAF]](https://github.com/Netflix/vmaf)
+## [[VMAF]](https://github.com/Netflix/vmaf) (Video Multi-Method Assessment Fusion)
