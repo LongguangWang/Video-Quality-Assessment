@@ -14,6 +14,6 @@
 }
 ```
 
-## [[VQM_VFD]](https://github.com/NTIA/vqm)
+## [[VQM-VFD]](https://github.com/NTIA/vqm)
 
 ## [[VMAF]](https://github.com/Netflix/vmaf)
