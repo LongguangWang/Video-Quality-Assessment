@@ -1,4 +1,4 @@
-# Video-Quality-Assessment
+# Video Quality Assessment
 
 ## [[MOVIE]](http://live.ece.utexas.edu/research/Quality/movie.html)
 ```
