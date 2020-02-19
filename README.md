@@ -1,7 +1,7 @@
 # Video-Quality-Assessment
 
-# MOVIE
+# [[MOVIE]](http://live.ece.utexas.edu/research/Quality/movie.html)
 
-# VQM-VFD
+# [[VQM_VFD]](https://github.com/NTIA/vqm)
 
-# VMAF
+# [[VMAF]](https://github.com/Netflix/vmaf)
